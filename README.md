@@ -1,6 +1,6 @@
-=====================
+
        README
-=====================
+
 
 Passos para rodar o proxy:
 1. Configure seu navegador para que as requisições seja dirigidas para o proxy: 127.0.0.1:8080
